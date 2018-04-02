@@ -1,6 +1,5 @@
 'use strict'
 
 new PhonePageApplication({
-	element: document.querySelector('container-fluid');
+	element: document.querySelector('.container-fluid')
 });
-
